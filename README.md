@@ -1,0 +1,2 @@
+# third-weak-assignment
+assignment
